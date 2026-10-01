@@ -112,10 +112,6 @@ Support this project by becoming a sponsor. Your logo will show up here with a l
   <img width="70" src="https://avatars.githubusercontent.com/u/65305317?v=4">
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://opencollective.com/sight-sound" target="_blank">
-  <img width="70" src="https://images.opencollective.com/sight-sound/54f7220/logo/256.png?height=256">
-</a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://opencollective.com/filerev" target="_blank">
   <img width="70" src="https://images.opencollective.com/filerev/93a8f05/logo/256.png?height=256" />
 </a>
@@ -126,10 +122,6 @@ Support this project by becoming a sponsor. Your logo will show up here with a l
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.netrouting.com" target="_blank" alt="Netrouting Dedicated Servers">
   <img width="70" src="https://netrouting.com/wp-content/uploads/2026/04/Logo-netrouting.png">
-</a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://anonstories.com" target="_blank">
-  <img alt="Instagram Story Viewer" width="70" src="https://avatars.githubusercontent.com/u/240702364?v=4">
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.sayfone.com/call-rates " target="_blank">
@@ -156,12 +148,12 @@ Support this project by becoming a sponsor. Your logo will show up here with a l
   <img width="70" src="https://avatars.githubusercontent.com/u/153308555?s=200&v=4">
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://github.com/blacksandsmedia" target="_blank">
-  <img width="70" src="https://avatars.githubusercontent.com/u/116517387?v=4">
-</a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://github.com/mvpsnet" target="_blank">
   <img width="70" src="https://avatars.githubusercontent.com/u/89784111?s=96&v=4">
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://sealedrose.com/verify-video" target="_blank">
+  <img alt="Sealed Rose — AI Deepfake Detector" width="70" src="https://github.com/user-attachments/assets/ae047f8f-3f64-499e-be6f-ea93a2f057ad"/>
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://onlydoc.com/" target="_blank" alt><img alt="" width="70" src="https://github.com/user-attachments/assets/f5d5938e-48a1-420b-af72-c4012d3941c1" /></a>
